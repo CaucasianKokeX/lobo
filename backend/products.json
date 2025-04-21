@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Bold Heroes Coloring Book",
+    "price": 479,
+    "image": "images/coloring-book.jpg",
+    "description": "Action-packed coloring pages with affirmations for kids."
+  },
+  {
+    "id": 2,
+    "name": "Power Pack Stickers (Set of 6)",
+    "price": 184,
+    "image": "images/stickers.jpg",
+    "description": "Empowering designs for your laptop, notebook, or mirror."
+  },
+  {
+    "id": 3,
+    "name": "Dear Me – Wellness Notebook",
+    "price": 877,
+    "image": "images/wellness-notebook.jpg",
+    "description": "A safe space to journal your feelings and affirmations."
+  }
+]
