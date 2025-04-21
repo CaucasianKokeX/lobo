@@ -1,0 +1,39 @@
+# Simple workflow for deploying static content to GitHub Pages
+n<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dear North Pole</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Dear North Pole</h1>
+    <p class="affirmation">"You are enough, just as you are."</p>
+  </header>
+  <main>
+    <div class="product">
+      <img src="https://via.placeholder.com/200" alt="Coloring Book" />
+      <h2>Bold Heroes Coloring Book</h2>
+      <p>Action-packed coloring pages with affirmations for kids.</p>
+      <span>Ksh 479</span>
+    </div>
+    <div class="product">
+      <img src="https://via.placeholder.com/200" alt="Stickers" />
+      <h2>Power Pack Stickers</h2>
+      <p>Colorful, empowering designs for your laptop, notebook, or mirror.</p>
+      <span>Ksh 184</span>
+    </div>
+    <div class="product">
+      <img src="https://via.placeholder.com/200" alt="Wellness Notebook" />
+      <h2>Dear Me – Wellness Notebook</h2>
+      <p>A safe space to journal your feelings, ideas, and affirmations.</p>
+      <span>Ksh 877</span>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2025 Dear North Pole. All rights reserved.</p>
+  </footer>
+</body>
+</html>
